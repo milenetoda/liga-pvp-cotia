@@ -730,7 +730,7 @@
             {
               "jogador1_id": "6mpp7t0ze5c",
               "jogador2_id": "4md1vbsdnmy",
-              "pontos1": 0,
+              "pontos1": "1",
               "pontos2": "0"
             },
             {
@@ -742,7 +742,7 @@
             {
               "jogador1_id": "r6okmf0sv61",
               "jogador2_id": "4md1vbsdnmy",
-              "pontos1": 0,
+              "pontos1": "1",
               "pontos2": 0
             },
             {
@@ -862,13 +862,13 @@
             {
               "jogador1_id": "6mpp7t0ze5c",
               "jogador2_id": "s7l7xqd3q6h",
-              "pontos1": 0,
-              "pontos2": 0
+              "pontos1": "2",
+              "pontos2": "1"
             },
             {
               "jogador1_id": "6mpp7t0ze5c",
               "jogador2_id": "ei5y6aaen0h",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
@@ -884,7 +884,7 @@
               "pontos2": 0
             }
           ],
-          "vencedor_id": ""
+          "vencedor_id": "yjo1eut4tg2"
         },
         {
           "dupla1_id": "x3e9wk13tf6",
