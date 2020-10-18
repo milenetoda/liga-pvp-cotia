@@ -830,7 +830,7 @@
             {
               "jogador1_id": "1wau802zdkv",
               "jogador2_id": "4md1vbsdnmy",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
@@ -842,7 +842,7 @@
             {
               "jogador1_id": "zen3ym5wvt0",
               "jogador2_id": "4md1vbsdnmy",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
@@ -852,7 +852,7 @@
               "pontos2": "2"
             }
           ],
-          "vencedor_id": "Empate!"
+          "vencedor_id": "8gywcczcxsf"
         },
         {
           "dupla1_id": "yjo1eut4tg2",
@@ -894,7 +894,7 @@
             {
               "jogador1_id": "fwtttrjulut",
               "jogador2_id": "b2fr8fpt6zo",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
@@ -916,7 +916,7 @@
               "pontos2": "2"
             }
           ],
-          "vencedor_id": "Empate!"
+          "vencedor_id": "x3e9wk13tf6"
         },
         {
           "dupla1_id": "1knhfq3502f",
@@ -926,7 +926,7 @@
             {
               "jogador1_id": "1y2a76wme9c",
               "jogador2_id": "f5thcqwp2bv",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
@@ -938,8 +938,8 @@
             {
               "jogador1_id": "dqf7ea6e227",
               "jogador2_id": "f5thcqwp2bv",
-              "pontos1": 0,
-              "pontos2": 0
+              "pontos1": "2",
+              "pontos2": "1"
             },
             {
               "jogador1_id": "dqf7ea6e227",
@@ -958,7 +958,7 @@
             {
               "jogador1_id": "xkuf9ovjrpk",
               "jogador2_id": "utvctxgvnul",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
