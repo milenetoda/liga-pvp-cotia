@@ -970,8 +970,8 @@
             {
               "jogador1_id": "y1ofhcq1unt",
               "jogador2_id": "utvctxgvnul",
-              "pontos1": 0,
-              "pontos2": 0
+              "pontos1": "2",
+              "pontos2": "1"
             },
             {
               "jogador1_id": "y1ofhcq1unt",
@@ -980,7 +980,7 @@
               "pontos2": 0
             }
           ],
-          "vencedor_id": ""
+          "vencedor_id": "yna9w5d1s10"
         }
       ]
     }
