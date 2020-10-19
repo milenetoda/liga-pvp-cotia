@@ -990,19 +990,19 @@
           "dupla1_id": "x3e9wk13tf6",
           "dupla2_id": "iv9hmd42z1t",
           "partida_id": "",
-          "vencedor_id": "",
+          "vencedor_id": "x3e9wk13tf6",
           "id_vencedor_do_desempate": "",
           "jogos": [
             {
               "jogador1_id": "fwtttrjulut",
               "jogador2_id": "b2fr8fpt6zo",
-              "pontos1": 0,
-              "pontos2": 0
+              "pontos1": "1",
+              "pontos2": "2"
             },
             {
               "jogador1_id": "fwtttrjulut",
               "jogador2_id": "4l227tvrle7",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             },
             {
