@@ -1023,7 +1023,7 @@
           "dupla1_id": "yna9w5d1s10",
           "dupla2_id": "8gywcczcxsf",
           "partida_id": "",
-          "vencedor_id": "",
+          "vencedor_id": "yna9w5d1s10",
           "id_vencedor_do_desempate": "",
           "jogos": [
             {
@@ -1041,13 +1041,13 @@
             {
               "jogador1_id": "y1ofhcq1unt",
               "jogador2_id": "1wau802zdkv",
-              "pontos1": 0,
+              "pontos1": "0",
               "pontos2": 0
             },
             {
               "jogador1_id": "y1ofhcq1unt",
               "jogador2_id": "zen3ym5wvt0",
-              "pontos1": 0,
+              "pontos1": "3",
               "pontos2": 0
             }
           ]
