@@ -454,38 +454,38 @@
       }
     ]
   },
-  "vegetassayajin": {
-    "competidor": "vegetassayajin",
+  "milenetoda2": {
+    "competidor": "milenetoda2",
     "pokemon": [
       {
         "img": "https://thesilphroad.com/img/pokemon/icons/96x96/598.png",
         "nome": "Ferrothorn",
-        "cp": "1,500"
+        "cp": "1,490"
       },
       {
         "img": "https://thesilphroad.com/img/pokemon/icons/96x96/334.png",
         "nome": "Altaria",
-        "cp": "1,498"
+        "cp": "1,495"
       },
       {
         "img": "https://thesilphroad.com/img/pokemon/icons/96x96/deoxys-defense.png",
         "nome": "Deoxys (Defense Forme)",
-        "cp": "1,497"
+        "cp": "1,470"
       },
       {
         "img": "https://thesilphroad.com/img/pokemon/icons/96x96/40.png",
         "nome": "Wigglytuff",
-        "cp": "1,497"
+        "cp": "1,490"
       },
       {
-        "img": "https://thesilphroad.com/img/pokemon/icons/96x96/809.png",
-        "nome": "Melmetal",
-        "cp": "1,495"
+        "img": "https://thesilphroad.com/img/pokemon/icons/96x96/379.png",
+        "nome": "Registeel",
+        "cp": "1,499"
       },
       {
         "img": "https://thesilphroad.com/img/pokemon/icons/96x96/226.png",
         "nome": "Mantine",
-        "cp": "1,490"
+        "cp": "1,500"
       }
     ]
   },
