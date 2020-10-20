@@ -990,7 +990,7 @@
           "dupla1_id": "x3e9wk13tf6",
           "dupla2_id": "iv9hmd42z1t",
           "partida_id": "",
-          "vencedor_id": "x3e9wk13tf6",
+          "vencedor_id": "iv9hmd42z1t",
           "id_vencedor_do_desempate": "",
           "jogos": [
             {
@@ -1009,7 +1009,7 @@
               "jogador1_id": "4o5n8492b9a",
               "jogador2_id": "b2fr8fpt6zo",
               "pontos1": 0,
-              "pontos2": 0
+              "pontos2": "3"
             },
             {
               "jogador1_id": "4o5n8492b9a",
